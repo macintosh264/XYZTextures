@@ -1,0 +1,9 @@
+mysql:
+   username: root
+   password: root
+   database: xyzshop
+   host: 127.0.0.1
+   port: 3306 
+textures:
+  hd: http://resc.xyzcraft.net/Sphax_XYZ2_HD.zip
+  reg: http://resc.xyzcraft.net/Sphax_XYZ2.zip

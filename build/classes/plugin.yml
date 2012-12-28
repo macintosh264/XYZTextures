@@ -1,0 +1,9 @@
+name: XYZTextures
+description: XYZ's Texture plugin
+authors: [macintosh264]
+website: http://xyzcraft.net
+main: net.xyzcraft.dev.textures.XYZTextures
+version: 1.0
+commands:
+  tex:
+    description: Hi
