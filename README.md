@@ -1,0 +1,4 @@
+XYZTextures
+===========
+
+Texture pack plugin!
